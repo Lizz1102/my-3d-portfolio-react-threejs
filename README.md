@@ -15,33 +15,11 @@ Phase 1: Documenting important steps for future reference.
   - npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
   - npm run dev;
 
-### Hosting Database
-
-
-
-### Hosting the Web App
-
-
-
-### Not Yet Resolved
-
-- Using a proxy to resolve CORS for now(in the frontend package.json) 
-- Post article instead of static data
-- Use unique IDs instead of enforcing unique article name
-- Need unique comment IDs 
-- Where do I host the database?
-- Where do I host my website? 
-
 ## TODOs
 
-- [ ] Test thoroughly before release. Essential features but a smooth, great experience
-- [ ] Display Pictures(Important)
-- [ ] Add LinkedIn login? Don't add anonymous commenting, we don't want chaos. It's my home, so I'd rather love less comments with authenticity 
-- [ ] Refactor for scalability, testability, and maintainability
-- [ ] Update the UI design for better accessibility
-- [ ] Write unit tests for the user authentication module
-- [ ] Add reply to a comment
-
+- [ ] Todos here
+- [ ] T2
+- [ ] T3
 
 ## Credits
 
