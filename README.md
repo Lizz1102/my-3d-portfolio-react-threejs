@@ -14,6 +14,8 @@ Phase 1: Documenting important steps for future reference.
   - 3d_portfolio folder - npm install -D tailwindcss; npx tailwindcss init;
   - npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
   - npm run dev;
+  - npm install --legacy-peer-deps -D tailwindcss postcss autoprefixer; npx tailwindcss init -p;
+  - 
 
 ## TODOs
 
